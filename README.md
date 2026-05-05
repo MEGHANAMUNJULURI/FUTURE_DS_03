@@ -34,3 +34,9 @@ Home → Product → Cart → Checkout → Purchase
 - Power BI Dashboard (.pbix)
 - Dataset (.csv/.xlsx)
 - Dashboard Report (.pdf)
+
+<img width="1448" height="819" alt="image" src="https://github.com/user-attachments/assets/30f89123-407d-4e78-8183-f1e9048ddc18" />
+
+ 
+
+ 
