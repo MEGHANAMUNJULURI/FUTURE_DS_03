@@ -5,7 +5,7 @@
 ## Overview
 This project analyzes user behavior across a marketing funnel to understand how users move from initial interaction to final purchase.
 
-# Objectives
+## Objectives
 - Identify conversion rates at each stage of the funnel
 - Analyze drop-off points in the user journey
 - Evaluate performance across channels and devices
