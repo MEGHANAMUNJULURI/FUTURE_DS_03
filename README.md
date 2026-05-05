@@ -6,31 +6,31 @@
 This project analyzes user behavior across a marketing funnel to understand how users move from initial interaction to final purchase.
 
 ## Objectives
-Identify conversion rates at each stage of the funnel
-Analyze drop-off points in the user journey
-Evaluate performance across channels and devices
-Provide actionable insights to improve conversions
+- Identify conversion rates at each stage of the funnel
+- Analyze drop-off points in the user journey
+- Evaluate performance across channels and devices
+- Provide actionable insights to improve conversions
 
 ## Tools Used
-Power BI → Dashboard & visualization
-Excel → Data preparation
+- Power BI → Dashboard & visualization
+- Excel → Data preparation
 
 ## Funnel Stages
 Home → Product → Cart → Checkout → Purchase
 
 ## Key Insights
-Overall conversion rate is approximately 20%
-Significant drop-off occurs before users reach deeper funnel stages
-Google and Email channels drive higher purchase volume
-Device type shows minimal impact on conversion behavior
+- Overall conversion rate is approximately 20%
+- Significant drop-off occurs before users reach deeper funnel stages
+- Google and Email channels drive higher purchase volume
+- Device type shows minimal impact on conversion behavior
 
 ## Business Recommendations
-Improve product page engagement and call-to-action
-Optimize user journey to reduce early-stage drop-off
-Focus marketing efforts on high-performing channels
-Enhance user experience across the funnel
+- Improve product page engagement and call-to-action
+- Optimize user journey to reduce early-stage drop-off
+- Focus marketing efforts on high-performing channels
+- Enhance user experience across the funnel
 
 ## Files Included
-Power BI Dashboard (.pbix)
-Dataset (.csv/.xlsx)
-Dashboard Report (.pdf)
+- Power BI Dashboard (.pbix)
+- Dataset (.csv/.xlsx)
+- Dashboard Report (.pdf)
